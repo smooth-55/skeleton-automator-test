@@ -1,4 +1,4 @@
-package automator
+package skeletonautomatortest
 
 import (
 	"fmt"
