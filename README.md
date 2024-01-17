@@ -1,0 +1,1 @@
+# skeleton-automator-test
